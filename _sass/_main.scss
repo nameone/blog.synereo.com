@@ -1,0 +1,23 @@
+h2 a {
+	color: $synereo-blue;
+}
+
+div.posts {
+	div.post {
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 20px;
+		margin-bottom: 20px;
+		.post-meta {
+			text-align: center;
+			.day {
+				display: block;
+				font-size: 3em;
+				color: $synereo-blue;
+				font-weight: bold;
+			}
+			.month-year {
+
+			}
+		}
+	}
+}
