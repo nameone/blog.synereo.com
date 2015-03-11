@@ -20,7 +20,7 @@ $ jekyll serve
 
 ## Post
 
-Posts are markdown files that are located in the `_posts` directory. Create new a new post by editing:
+Posts are markdown files that are located in the `_posts` directory. You can now create a new post by editing:
 
 ```bash
 $ touch _posts/2015-01-23-this-is-a-post.md
